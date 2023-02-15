@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/ZMkYP8e.png" width="250"/>
+  <img src="https://i.imgur.com/YxP8O26.png" width="250"/>
 </div>
 
 <div id="badges" align="center">
@@ -30,11 +30,11 @@
 
 ### 📌 About Me:
 
-- 📝 I'm currently in my 3rd year of a BENG (HONS) SOFTWARE ENGINEERING course.
+- 📝 I'm currently a 4th year student in BEng (Hons) Software Engineering.
 
-- 🎲 Taking an interest in game development (currently Unity).
+- 🎲 Taking an interest in game development aspects (procedural generation).
 
-- 👀 Working on a few personal projects relating to both University and Minecraft.
+- 👀 Focusing on University work along with a personal projects (Minecastia).
 
 - 👋 Feel free to add me on Discord: ```cide#0001```
 
