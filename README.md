@@ -23,7 +23,7 @@
 <div id="hello" align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Hey there, I'm Cide!
+    Hey there, I'm Cameron (cide)!
   </h1>
 </div>
 
@@ -32,9 +32,9 @@
 
 - 📝 I'm currently a 4th year student in BEng (Hons) Software Engineering.
 
-- 🎲 Taking an interest in game development aspects (procedural generation).
+- 🎲 Taking an interest in game development aspects (procedural generation at the moment).
 
-- 👀 Focusing on University work along with a personal projects (Minecastia).
+- 👀 Focusing on my university work (honours project) along with a personal project (Minecastia).
 
 - 👋 Feel free to add me on Discord: ```cide#0001```
 
